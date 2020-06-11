@@ -1,0 +1,132 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.title {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.part_of_level01 {
+    width: 100%;
+}
+
+.level01 {
+    width: 100%;
+}
+
+.recommended_items {
+    width: 100%;
+}
+
+.part_of_button {
+    width: 100%;
+}
+
+.button01 {
+    width: 25%;
+    margin-left: 10%;
+}
+
+.button02 {
+    width: 25%;
+    margin-left: 2%;
+}
+
+.button03 {
+    width: 25%;
+    margin-left: 2%;
+}
+
+.part_of_lead {
+    width: 100%;
+    overflow: hidden;
+}
+
+.first {
+    width: 25%;
+    margin-left: 10%;
+    font-size: 5%;
+    float: left;
+    font-family: "ＭＳ ゴシック",sans-serif; 
+    line-height: 14px;
+}
+
+.second {
+    width: 25%;
+    margin-left: 4%;
+    font-size: 5%;
+    float: left;
+    font-family: "ＭＳ ゴシック",sans-serif; 
+    line-height: 14px;
+}
+
+.third {
+    width: 25%;
+    margin-left: 4%;
+    font-size: 5%;
+    float: left;
+    font-family: "ＭＳ ゴシック",sans-serif; 
+    line-height: 14px;
+}
+
+.message {
+    width: 100%;
+    margin-top: 8px;
+}
+
+.level02 {
+    width: 100%;
+}
+
+.level03 {
+    width: 100%;
+}
+
+.last_message {
+    width: 100%;
+}
+
+.back_button {
+    width: 100%;
+}
+
+
+
+
+
+
+/* .part_of_click_button {
+    width: 100%;
+}
+
+.click1 {
+    width: 8%;
+    margin-left: 19%;
+}
+
+.click2 {
+    width: 8%;
+    margin-left: 19%;
+}
+
+.click3 {
+    width: 8%;
+    margin-left: 19%;
+} */
